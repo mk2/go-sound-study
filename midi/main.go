@@ -1,7 +1,6 @@
 package main
 
 // #cgo windows LDFLAGS: -L. -lMIDIData
-// #include <windows.h>
 // #include "MIDIData.h"
 import "C"
 
